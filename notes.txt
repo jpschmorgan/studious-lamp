@@ -3,3 +3,6 @@ Change log entry for iteration 32
 
 Update 40
 Change log entry for iteration 40
+
+Update 42
+Change log entry for iteration 42
